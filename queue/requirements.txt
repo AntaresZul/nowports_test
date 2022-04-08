@@ -1,5 +1,4 @@
 celery
 flower
-pandas
 redis
 watchdog
